@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tawar2Demo4</string>
+    <string name="Login">Login</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_bed_no">BedNo</string>
+    <string name="welcome">Welcome Dr:Ola</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="avaliable">Avaliable bed number</string>
+</resources>
